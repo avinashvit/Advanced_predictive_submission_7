@@ -1,0 +1,8 @@
+{
+  "candidate_pool_size": 1000,
+  "selection_criteria": "Top 1000 items by transaction frequency in training history (strictly pre-t1)",
+  "repeat_purchases_allowed": true,
+  "filter_inactive_or_negative": true,
+  "negative_sampling_ratio": 50,
+  "random_seed": 42
+}

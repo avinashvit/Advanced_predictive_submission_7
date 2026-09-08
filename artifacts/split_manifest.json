@@ -1,0 +1,13 @@
+{
+  "t0_train_feature_cutoff": "2011-07-31 12:02:00",
+  "t1_validation_cutoff": "2011-10-07 13:19:48",
+  "t2_test_cutoff": "2011-11-11 12:10:00",
+  "train_feature_rows": 196330,
+  "train_target_rows": 78582,
+  "val_feature_rows": 274912,
+  "val_target_rows": 58866,
+  "test_feature_rows": 333778,
+  "test_target_rows": 58954,
+  "test_target_users": 1558,
+  "test_target_items": 2637
+}
